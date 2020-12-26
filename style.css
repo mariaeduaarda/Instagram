@@ -1,0 +1,24 @@
+:root {
+    --roxo: #451980;
+    --roxo2: #8553d4;
+}
+
+*{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+body {
+    background: var(--roxo2);
+    font-family: 'Times New Roman', Times, serif;
+    color: white; 
+}
+
+header .titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #451980;
+    
+}
